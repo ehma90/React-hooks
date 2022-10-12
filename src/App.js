@@ -1,10 +1,10 @@
-import UseMemoExample from "./components/UseMemoExample";
+import CustomHooksExample2 from "./components/CustomHooksExample2";
 
 function App() {
   return (
     <>
       <div className="contaiiner mt-5 mx-5">
-        <UseMemoExample/>
+        <CustomHooksExample2/>
       </div>
     </>
   );
